@@ -46,7 +46,6 @@ export class Nav4Component implements OnInit {
     'Μ07.jpg',
     'Μ08.jpg',
     'Μ09.jpg',
-    'Μ10.jpg',
     'Μ11.jpg',
     'Μ12.jpg',
     'Μ13.jpg',
