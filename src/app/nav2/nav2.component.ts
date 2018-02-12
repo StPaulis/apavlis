@@ -28,7 +28,6 @@ export class Nav2Component implements OnInit {
     '19.jpg',
     '20.jpg',
     '21.jpg',
-    '22.jpg',
     '24.jpg',
     '25.jpg',
     '26.jpg',
